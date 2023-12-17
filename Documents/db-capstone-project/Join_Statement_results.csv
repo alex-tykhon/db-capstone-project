@@ -1,0 +1,7 @@
+CustomerID,CustomerName,OrderID,OrderTotalCost,MenuCuisine,MenuItems
+1,"'Anna Iversen'",1,86.00,'Greek','Olives'
+2,"'Joakim Iversen'",2,37.00,'Greek',"'Greek salad'"
+3,"'Vanessa McCarthy'",3,37.00,'Greek',"'Greek salad'"
+4,"'Marcos Romero'",4,40.00,'Greek',"'Greek yoghurt'"
+5,"'Hiroki Yamane'",5,43.00,'Greek','Olives'
+6,"'Diana Pinto'",6,51.00,'Greek',"'Greek yoghurt'"
